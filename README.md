@@ -1,3 +1,5 @@
 # Hello World
-My name is Nattphoom Saensiriphokh
-My student id 673450189-9
+My name is Nattphoom Saensiriphokh, id 673450189-9
+```
+console.Write("Hello World");
+```
